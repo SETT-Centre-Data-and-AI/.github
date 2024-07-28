@@ -21,9 +21,9 @@ Improve healthcare for clinicians and patients alike through the responsible and
 
 - Dr Chris Kipps is the overall director of SETT and SRO for the Wessex SDE. He is a Professor of Neurology at the University of Southampton and is overall responsible for the SETT Centre.
 
-- Dr Matt Stammers, started the team in 2021 is a Consultant Gastroenterologist & Clinician Informatician. He was officially appointed as clinical lead of the data and AI theme in August 2024 and intends to build the theme into a major national contributor to open-source clinical R&D software. He believes passionately that open-source trumps closed-source particularly in NLP projects and wants to see the NHS be able to thrive and grow by embracing safe clinical AI.
-
 - Mrs Rachel Chappell is the SETT Centre manager and is responsible for managing all three SETT themes. She has previously held many roles within the NHS and has an extensive experience as an NHS manager. She has worked closely with Matt over the last three years to build up the theme into the powerhouse that it is becoming today.
+
+- Dr Matt Stammers, started the team in 2021 is a Consultant Gastroenterologist & Clinician Informatician. He was officially appointed as clinical lead of the data and AI theme in August 2024 and intends to build the theme into a major national contributor to open-source clinical R&D software. He believes passionately that open-source trumps closed-source particularly in NLP projects and wants to see the NHS be able to thrive and grow by embracing safe clinical AI.
 
 - Mr Cai Davis has an extensive experience in extracting, provisioning and analysing data for research. Full of energy and ideas he devised the original ribosome model and multiple other innovations. He is also the primary person responsible for naming innovations as he is very gifted in this regard. He leads the analytics and delivery team.
 
