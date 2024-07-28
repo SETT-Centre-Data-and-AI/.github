@@ -1,3 +1,7 @@
+<picture align="center">
+  <img alt="SETT Logo" src="https://github.com/MattStammers/Pteredactyl/blob/main/src/pteredactyl_webapp/assets/img/SETT_Logo.jpg">
+</picture>
+
 # Welcome to SETT: Data and AI 👋
 This is the main repository for the Southampton Emerging Therapies and Technologies (SETT) Centre: Data and AI. 
 
