@@ -31,6 +31,7 @@ Improve healthcare for clinicians and patients alike through the responsible and
 
 - Dr Michael George, a clinician turned data engineer / data scientist. Michael was the first person to join SETT and together in the early days he and Matt laid the foundations of what would become the infrastructure we have today. Michael is becoming an expert in clinical length of stay prediction and is working with collaborators to build up this capability. He is responsible for managing the infrastructure team.
 
+
 ## Contributions 🌈 
 
 We are always open to contributions from outside. If you find a bug submit an issue. If you want to contribute do so. You will find contribution guidelines in the repositories themselves. 
