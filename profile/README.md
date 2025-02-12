@@ -1,5 +1,5 @@
 <picture align="center">
-  <img alt="SETT Logo" src="https://github.com/MattStammers/Pteredactyl/blob/main/src/pteredactyl_webapp/assets/img/SETT_Logo.jpg">
+  <img alt="SETT Logo" src="images/SETT Header.png">
 </picture>
 
 # Welcome to SETT: Data and AI 👋
