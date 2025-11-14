@@ -43,6 +43,6 @@ Happy Coding! 🙌
 ## Clinical Data Research Packages 🧩
 Check out our packages!
 
-| [**Kraken**](https://github.com/SETT-Centre-Data-and-AI/Kraken)<br/>Reproducible Analytical Pipeline (RAP) SQL orchestrator | [**PteRedactyl**](https://github.com/SETT-Centre-Data-and-AI/PteRedactyl)<br/>Clinical freetext PII redaction | [**Valediction**](https://github.com/SETT-Centre-Data-and-AI/Valediction)<br/>Data validation & constraint enforcement |
-|:---:|:---:|:---:|
 | ![](images/kraken.png) | ![](images/pteredactyl.png) | ![](images/valediction.png) |
+|:---:|:---:|:---:|
+| **[Kraken](https://github.com/SETT-Centre-Data-and-AI/Kraken)**<br/><em>Reproducible Analytical Pipeline (RAP) SQL orchestrator</em> | **[PteRedactyl](https://github.com/SETT-Centre-Data-and-AI/PteRedactyl)**<br/><em>Clinical freetext PII redaction</em> | **[Valediction](https://github.com/SETT-Centre-Data-and-AI/Valediction)**<br/><em>Data validation & constraint enforcement</em> |
