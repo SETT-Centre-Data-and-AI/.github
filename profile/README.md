@@ -3,7 +3,7 @@
 </picture>
 
 # Welcome to SETT: Data and AI 👋
-This is the main repository for the Southampton Emerging Therapies and Technologies (SETT) Centre: Data and AI. 
+This is the main repository for the Southampton Emerging Therapies and Technologies (SETT) Centre: Data and AI Research Unit (DAIR). 
 
 Here we host all our open source projects for the wider research and development community to use.
 
@@ -39,3 +39,40 @@ We are always open to contributions from outside. If you find a bug submit an is
 We are an open bunch and want to collaborate inclusively so please do get in contact.
 
 Happy Coding! 🙌
+
+## Clinical Data Research Packages 🧩
+Check out our packages!
+
+<div style="display: flex; justify-content: center; gap: 30px; text-align: center;">
+
+  <div>
+    <a href="https://github.com/SETT-Centre-Data-and-AI/Kraken">
+      <img src="images/kraken.png" width="150" alt="Kraken logo" />
+    </a>
+    <div>
+      <a href="https://github.com/SETT-Centre-Data-and-AI/Kraken"><strong>Kraken</strong></a><br/>
+      Reproducible Analytical Pipeline (RAP) SQL orchestrator
+    </div>
+  </div>
+
+  <div>
+    <a href="https://github.com/SETT-Centre-Data-and-AI/PteRedactyl">
+      <img src="images/pteredactyl.png" width="150" alt="PteRedactyl logo" />
+    </a>
+    <div>
+      <a href="https://github.com/SETT-Centre-Data-and-AI/PteRedactyl"><strong>PteRedactyl</strong></a><br/>
+      Clinical freetext PII redaction
+    </div>
+  </div>
+
+  <div>
+    <a href="https://github.com/SETT-Centre-Data-and-AI/Valediction">
+      <img src="images/valediction.png" width="150" alt="Valediction logo" />
+    </a>
+    <div>
+      <a href="https://github.com/SETT-Centre-Data-and-AI/Valediction"><strong>Valediction</strong></a><br/>
+      Data validation & constraint enforcement
+    </div>
+  </div>
+
+</div>
