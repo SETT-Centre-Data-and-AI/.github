@@ -3,7 +3,7 @@
 </picture>
 
 # Welcome to SETT: Data and AI 👋
-This is the main repository for the Southampton Emerging Therapies and Technologies (SETT) Centre: Data and AI. 
+This is the main repository for the Southampton Emerging Therapies and Technologies (SETT) Centre: Data and AI Research Unit (DAIR). 
 
 Here we host all our open source projects for the wider research and development community to use.
 
@@ -39,3 +39,10 @@ We are always open to contributions from outside. If you find a bug submit an is
 We are an open bunch and want to collaborate inclusively so please do get in contact.
 
 Happy Coding! 🙌
+
+## Clinical Data Research Packages 🧩
+Check out our packages!
+
+| [![](images/kraken.png)](https://github.com/SETT-Centre-Data-and-AI/Kraken) | [![](images/pteredactyl.png)](https://github.com/SETT-Centre-Data-and-AI/PteRedactyl) | [![](images/valediction.png)](https://github.com/SETT-Centre-Data-and-AI/Valediction) |
+|:---:|:---:|:---:|
+| **[Kraken](https://github.com/SETT-Centre-Data-and-AI/Kraken)**<br/><em>Reproducible Analytical Pipeline (RAP) SQL orchestrator</em> | **[PteRedactyl](https://github.com/SETT-Centre-Data-and-AI/PteRedactyl)**<br/><em>Clinical freetext PII redaction</em> | **[Valediction](https://github.com/SETT-Centre-Data-and-AI/Valediction)**<br/><em>Data validation & constraint enforcement</em> |
